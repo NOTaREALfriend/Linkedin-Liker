@@ -1,17 +1,18 @@
-# MisterLike
+# Linkedin Liker
 
-> Let's like all MisterTemp' posts! 👍
+> Let's like all of a company's posts! 👍
 
 ## Install
 
 ```bash
-npm install --global https://github.com/mattp94/misterlike.git
+npm install --global https://github.com/NOTaREALfriend/Linkedin-Liker.git
 ```
 
 ## Usage
 
 ```bash
-misterlike --email <email> --password <password> [--remember] [--notification] [--all] [--show]
+node clear.js
+node index.js
 ```
 
 More information with `--help` option.
