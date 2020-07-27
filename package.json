@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mattp94/misterlike.git"
+    "url": "git+https://github.com/NOTaREALfriend/Linkedin-Liker.git"
   },
-  "author": "Matthieu Puibaraud <matthieu.puibaraud@isep.fr> (https://github.com/mattp94)",
+  "author": "Darren Botha <darren@amtsquirrelworks.com> (https://github.com/NOTaREALfriend)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mattp94/misterlike/issues"
+    "url": "https://github.com/NOTaREALfriend/Linkedin-Liker/issues"
   },
-  "homepage": "https://github.com/mattp94/misterlike#readme",
+  "homepage": "https://github.com/NOTaREALfriend/Linkedin-Liker#readme",
   "dependencies": {
     "chalk": "^2.4.2",
     "conf": "^4.0.2",
